@@ -527,6 +527,9 @@ img {
 .skills__js {
   width: 60%;
 }
+.skills__react{
+  width: 40%;
+}
 
 .skills__wordpress {
   width: 70%;
@@ -542,6 +545,22 @@ img {
 
 .skills__sql {
   width: 50%;
+}
+
+.skills__php{
+  width: 90%;
+}
+
+.skills__mysql{
+  width: 72%;
+}
+
+.skills__node{
+  width: 58%;
+}
+
+.skills__python{
+  width: 94%;
 }
 
 .skills__google {
@@ -1050,8 +1069,9 @@ img {
     width: 250px;
   }
 
-  .home__social-icon {_
+  .home__social-icon {
     width: 30px;
+
   }
 
   .home__subtitle {
